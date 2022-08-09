@@ -1,2 +1,3 @@
 # MemoryGame
-Memory game repository for Motorola Academy
+Implementation of a simple memory game according
+to functional requirements from Motorola
