@@ -3,7 +3,7 @@ public class Main {
 
         UserInput.inputLevel();
         System.out.println();
-        String randomWord = ReadFile.read();
-        System.out.println("Random word is: " + randomWord);
+        //String randomWord = ReadFile.read();
+        //System.out.println("Random word is: " + randomWord);
     }
 }

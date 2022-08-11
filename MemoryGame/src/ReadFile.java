@@ -18,7 +18,8 @@ public class ReadFile {
                     gameWords.add(data);
                 }
 
-                System.out.println("gameWords = " + gameWords);
+                //System.out.println("gameWords = " + gameWords);
+                //System.out.println("gameWords.size() = " + gameWords.size());
 
                 // finding random index of gameWords list
                 int random = (int) (Math.random() * gameWords.size());
